@@ -1,0 +1,1 @@
+Función para colorear de forma rápida en Bash
